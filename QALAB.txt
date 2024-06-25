@@ -1,3 +1,7 @@
 probando GitHub
 agregando segunda linea
+<<<<<<< HEAD
 agregando tercera linea local
+=======
+agregando tercera lineaweb
+>>>>>>> 7794d6a69ad1a4cddaef708a5af95981c09536d6
